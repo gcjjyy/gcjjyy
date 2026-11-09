@@ -4,7 +4,7 @@
 **gcjjyy/gcjjyy** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-I'm **Cheol Jang**, a software engineer and CTO based in Seoul, Korea.
+I'm **QuickBASIC 4.5**, a software engineer and CTO based in Seoul, Korea.
 I build practical products, experiment with technology, and enjoy solving real-world problems.
 
 * 🔭 **Currently**: CTO at Asian Food Connect, building a global B2B food trade platform
